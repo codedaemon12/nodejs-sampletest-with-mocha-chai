@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-sampletest-with-mocha-chai",
+  "version": "0.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedaemon12/nodejs-sampletest-with-mocha-chai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedaemon12/nodejs-sampletest-with-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/codedaemon12/nodejs-sampletest-with-mocha-chai#readme",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "express": "^4.13.3",
+    "mocha": "^2.3.4",
+    "request": "^2.67.0"
+  }
+}
