@@ -1,1 +1,5 @@
 This is a sample app which explains how to use chai and mocha in nodeJs 
+
+run app as node app/server.js
+
+run npm test in a separate terminal
